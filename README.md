@@ -117,7 +117,7 @@ Mencetak menu dengan lima opsi yang dapat dipilih pengguna tersebut:
 
 Dan ini diagram dari class tersebut:
 
-![Screenshot 2024-12-09 203657](https://github.com/user-attachments/assets/32bf6a53-dd9d-4236-b2ad-9a1ca67c6ed2
+![Screenshot 2024-12-09 203657](https://github.com/user-attachments/assets/c3d0c999-5d54-4079-b140-739a2131b0f9)
 
 Dan ini hasil flowchartnya:
 
