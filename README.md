@@ -1,6 +1,6 @@
 # Naufal yazid albani
 # 312410279
-# TI 24.A.4
+# TI 24.A.4 
 # Bahasa Pemograman
 
 # TUGAS PRAKTIKUM
